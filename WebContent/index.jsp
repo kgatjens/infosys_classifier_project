@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<bod
+ <body>
 	<h:form>
 	    <h:outputLabel value="Enter the analisys tyupe: " />
 	    <h:inputText  size="25" value="" />
